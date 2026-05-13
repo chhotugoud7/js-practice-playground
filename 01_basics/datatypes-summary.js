@@ -52,3 +52,19 @@ console.log(typeof anotherId); //it is to check the data type of a variable
 
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+
+/*
+
+
+-------------------------------------------------
+
+--stack and heap
+
+stack -- primitive data types --> copy pasted -> actual value does not chagned in the end.
+heap -- non primitive data types --> reference passed -> actual value changed in the end.
+
+
+
+*/
